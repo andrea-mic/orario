@@ -1,0 +1,16 @@
+*{
+	/*border: 1px solid black;*/
+	margin: auto;
+}
+.menu {
+	width: 90%;
+	table-layout: fixed;
+	text-align: center;
+}
+td {
+	width: 33%;
+}
+#orologio {
+	width: 50%;
+	display: block;
+}
